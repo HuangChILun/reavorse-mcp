@@ -1,0 +1,16 @@
+{
+  "name": "com.reavorse.unity-mcp",
+  "version": "1.0.0",
+  "displayName": "Reavorse MCP Enhanced",
+  "description": "An enhanced Unity package to communicate with a local MCP Client via a Python server, with extended material, particle, lighting, UI and physics features.",
+  "unity": "2020.3",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.2",
+    "com.unity.render-pipelines.universal": "12.1.7",
+    "com.unity.postprocessing": "3.2.2"
+  },
+  "author": {
+    "name": "Reavorse",
+    "original": "justinpbarnett"
+  }
+}
