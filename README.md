@@ -89,6 +89,11 @@ Encountering issues? Try these fixes:
 
 - **Configuration Issues with Claude Desktop or Cursor**  
   Ensure your MCP client is configured to communicate with the Unity MCP server.
+  
+- **Connection Stuck or No Progress** 
+  In some special situations where the process seems stuck with no progress, try closing both Claude and the Unity project, then reconnecting to re-establish the connection.
+
+
 
 ## Contact
 
